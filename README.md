@@ -1,1 +1,1 @@
-# Android App: A SImple To-Do List
+# Android App: A Simple To-Do List
